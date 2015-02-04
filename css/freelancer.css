@@ -532,3 +532,12 @@ a.fatButton:hover {
         padding-top: 15px;
     }
 }
+
+.ref-links{
+ visibility: true; 
+ color:#fff;
+}
+a.ref-links:hover{
+ visibility: true; 
+ color:#fff;
+}
