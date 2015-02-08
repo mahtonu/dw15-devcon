@@ -110,7 +110,7 @@ header .intro-text .skills {
 
 @media(min-width:768px) {
     header .container {
-        padding-top: 130px;
+        padding-top: 115px;
         padding-bottom: 40px;
     }
 
@@ -540,4 +540,12 @@ a.fatButton:hover {
 a.ref-links:hover{
  visibility: true; 
  color:#fff;
+}
+.share-btn-pos{
+    width: 235px;;
+    float: none;
+    margin: auto;
+}
+.btn-pos{
+    float:left;
 }
