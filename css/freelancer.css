@@ -496,6 +496,9 @@ a.fatButton:hover {
     background: black; 
     font-size: 22px;
 }
+.speakers li.active {
+    background-color: white;
+}
 .register{
     padding: 0px;
     text-align: center; 
@@ -548,4 +551,10 @@ a.ref-links:hover{
 }
 .btn-pos{
     float:left;
+}
+
+p.slideLink a {
+    color: white;
+    background: rgb(60, 59, 59);
+    padding: 5px;
 }
